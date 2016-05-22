@@ -1,0 +1,96 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="DigiSanc_RAP" values="config.ssh.enabled,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.5+" collectionTime="1463204771395" />
+      <project id="python-paho-mqtt-for-aws-iot" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,config.warn.about.detached.enabled,data.local.branches.count.1,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled" collectionTime="1463023905039" />
+      <project id="DigiSanc_Iot" values="config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1461558005449" />
+    </group>
+    <group name="vcs">
+      <project id="DigiSanc_WEB" values="Git" collectionTime="1435388006274" />
+      <project id="python-paho-mqtt-for-aws-iot" values="Git" collectionTime="1463023904962" />
+      <project id="DigiSanc_RAP" values="Git" collectionTime="1463204766947" />
+      <project id="DigitizedSanctuary_bkp" values="Git" collectionTime="1435211901379" />
+      <project id="DigiSanc_Tools" values="Git" collectionTime="1438147935323" />
+      <project id="DigiSanc_BS_Develop" values="Git" collectionTime="0" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="python-paho-mqtt-for-aws-iot" values="PythonConfigurationType" collectionTime="1463023904963" />
+      <project id="DigiSanc_Tools" values="PythonConfigurationType" collectionTime="1438147935324" />
+      <project id="DigiSanc_BS_Develop" values="PythonConfigurationType" collectionTime="0" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="DigiSanc_RAP" values="tests.py.test,PythonConfigurationType" collectionTime="1463204766947" />
+      <project id="DigiSanc_Tools" values="BashConfigurationType" collectionTime="1438147935324" />
+    </group>
+    <group name="py-interpreter">
+      <project id="DigiSanc_WEB" values="Python 2.7.6" collectionTime="1435388006283" />
+      <project id="python-paho-mqtt-for-aws-iot" values="Python 3.4.3 [virtualenv]" collectionTime="1463023905029" />
+      <project id="DigiSanc_RAP" values="Python 2.7.6 [virtualenv]" collectionTime="1463204767467" />
+      <project id="DigitizedSanctuary_bkp" values="Python 2.7.6" collectionTime="1435211901384" />
+      <project id="sensordata_test" values="Python 2.7.6" collectionTime="1439608832710" />
+      <project id="DigiSanc_Tools" values="Python 2.7.6" collectionTime="1438147935352" />
+      <project id="DigiSanc_BS_Develop" values="Python 2.7.6" collectionTime="0" />
+      <project id="DigiSanc_Iot" values="Python 3.4.3" collectionTime="1461558005447" />
+    </group>
+    <group name="file-type">
+      <project id="DigiSanc_WEB" values="C#,UNKNOWN,ARCHIVE,DTD,C/C++,XHTML,PLAIN_TEXT,Makefile,Perl,Python,JSON,Bash,Images,CSS,HTML,PATCH,JavaScript,Tree file,XML,Native" collectionTime="1435388006282" />
+      <project id="python-paho-mqtt-for-aws-iot" values="Python,JSON,UNKNOWN,C++,ReST,Markdown,ARCHIVE,PLAIN_TEXT" collectionTime="1463023905017" />
+      <project id="DigiSanc_RAP" values="PLAIN_TEXT,Markdown,Bash,SnakeYAML,XML,UNKNOWN,ARCHIVE,Python" collectionTime="1463204767190" />
+      <project id="DigitizedSanctuary_bkp" values="JavaScript,Images,C/C++,PLAIN_TEXT,Bash,ARCHIVE,Python,XML,UNKNOWN,ReST,HTML,Tree file,JSON,CSS,Makefile,IPNB" collectionTime="1435211901383" />
+      <project id="sensordata_test" values="Bash,PLAIN_TEXT,XML,UNKNOWN,Python" collectionTime="1439608832704" />
+      <project id="DigiSanc_Tools" values="Images,HTML,PLAIN_TEXT,XML,Python,Bash,UNKNOWN,CSS" collectionTime="1438147935346" />
+      <project id="DigiSanc_BS_Develop" values="ReST,IPNB,Perl,XHTML,C++,DTD,Native,PATCH,XML,Images,JSON,C#,JavaScript,CSS,Python,PLAIN_TEXT,HTML,ARCHIVE,UNKNOWN" collectionTime="0" />
+      <project id="DigiSanc_Iot" values="Bash,Images,JSON,PATCH,Python,CSS,SnakeYAML,Markdown,PLAIN_TEXT,UNKNOWN,HTML,JavaScript" collectionTime="1461558005432" />
+    </group>
+    <group name="module type">
+      <project id="DigiSanc_WEB" values="PYTHON_MODULE" collectionTime="1435388006274" />
+      <project id="python-paho-mqtt-for-aws-iot" values="PYTHON_MODULE" collectionTime="1463023904962" />
+      <project id="DigiSanc_RAP" values="PYTHON_MODULE" collectionTime="1463204766947" />
+      <project id="DigitizedSanctuary_bkp" values="PYTHON_MODULE" collectionTime="1435211901379" />
+      <project id="sensordata_test" values="PYTHON_MODULE" collectionTime="1439608832660" />
+      <project id="DigiSanc_Tools" values="PYTHON_MODULE" collectionTime="1438147935323" />
+      <project id="DigiSanc_BS_Develop" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="DigiSanc_Iot" values="PYTHON_MODULE" collectionTime="1461558005419" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="25" />
+      <entry feature="StripeButton[Inspection].hidden" count="1" />
+      <entry feature="StripeButton[Run].hidden" count="1" />
+      <entry feature="execute.BashConfigurationType.Run" count="5" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="1233" />
+      <entry feature="execute.PythonConfigurationType.Run" count="70" />
+      <entry feature="execute.tests.Debug" count="249" />
+      <entry feature="execute.tests.Run" count="38" />
+      <entry feature="ide.help.find.todoList" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="3" />
+      <entry feature="ide.help.top" count="1" />
+      <entry feature="ide.settings.Appearance" count="13" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="10" />
+      <entry feature="ide.settings.Console_Font" count="3" />
+      <entry feature="ide.settings.File_Types" count="1" />
+      <entry feature="ide.settings.Font" count="15" />
+      <entry feature="ide.settings.General" count="5" />
+      <entry feature="ide.settings.JSON" count="1" />
+      <entry feature="ide.settings.Keymap" count="4" />
+      <entry feature="ide.settings.Notifications" count="1" />
+      <entry feature="ide.settings.Plugins" count="3" />
+      <entry feature="ide.settings.Project_Interpreter" count="3" />
+      <entry feature="ide.settings.Python" count="5" />
+      <entry feature="ide.settings.Python_Console" count="2" />
+      <entry feature="ide.settings.Scopes" count="3" />
+      <entry feature="ide.settings.TODO" count="2" />
+      <entry feature="ide.settings.Terminal" count="3" />
+      <entry feature="ide.settings.Tree" count="1" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="346" />
+      <entry feature="python.console.local" count="2" />
+      <entry feature="terminal.linux" count="7" />
+      <entry feature="tips.of.the.day.next" count="37" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,81 @@
+# encoding: utf-8
+# module PIL._imagingmath
+# from /usr/lib/python2.7/dist-packages/PIL/_imagingmath.so
+# by generator 1.138
+# no doc
+# no imports
+
+# Variables with simple values
+
+abs_F = 139799314864720
+abs_I = 139799314862416
+
+add_F = 139799314864944
+add_I = 139799314862608
+
+and_I = 139799314863344
+
+diff_F = 139799314865408
+diff_I = 139799314863136
+
+div_F = 139799314865280
+div_I = 139799314862912
+
+eq_F = 139799314865760
+eq_I = 139799314864048
+
+ge_F = 139799314866464
+ge_I = 139799314864608
+
+gt_F = 139799314866320
+gt_I = 139799314864496
+
+invert_I = 139799314863248
+
+le_F = 139799314866176
+le_I = 139799314864384
+
+lshift_I = 139799314863632
+
+lt_F = 139799314866032
+lt_I = 139799314864272
+
+max_F = 139799314865648
+max_I = 139799314863936
+
+min_F = 139799314865536
+min_I = 139799314863824
+
+mod_F = 139799314866864
+mod_I = 139799314863024
+
+mul_F = 139799314865168
+mul_I = 139799314862800
+
+neg_F = 139799314864832
+neg_I = 139799314862512
+
+ne_F = 139799314865888
+ne_I = 139799314864160
+
+or_I = 139799314863440
+
+pow_F = 139799314867136
+pow_I = 139799314866608
+
+rshift_I = 139799314863728
+
+sub_F = 139799314865056
+sub_I = 139799314862704
+
+xor_I = 139799314863536
+
+# functions
+
+def binop(*args, **kwargs): # real signature unknown
+    pass
+
+def unop(*args, **kwargs): # real signature unknown
+    pass
+
+# no classes

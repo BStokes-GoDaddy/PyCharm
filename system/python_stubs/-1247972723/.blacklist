@@ -1,0 +1,8 @@
+# PyCharm failed to generate skeletons for these modules.
+# These skeletons will be re-generated automatically
+# when a newer module version or an updated generator becomes available.
+/usr/lib/python2.7/lib-dynload/dl.i386-linux-gnu.so = 1.138 1434999557000
+/usr/lib/python2.7/dist-packages/OpenSSL/rand.so = 1.138 1396321603000
+/usr/lib/python2.7/dist-packages/OpenSSL/crypto.so = 1.138 1396321603000
+/usr/lib/python2.7/lib-dynload/imageop.i386-linux-gnu.so = 1.138 1434999557000
+/usr/lib/python2.7/dist-packages/OpenSSL/SSL.so = 1.138 1396321603000

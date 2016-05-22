@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/bill/Projects/DigiSanc/DigiSanc_RAP/.idea/DigiSanc_RAP.iml" timestamp="1457408143000" />
+    <file path="/home/bill/Projects/DigiSanc/DigiSanc_RAP/.idea/codeStyleSettings.xml" timestamp="1435296481000" />
+    <file path="/home/bill/Projects/DigiSanc/DigiSanc_RAP/.idea/dictionaries/bill.xml" timestamp="1436327215000" />
+    <file path="/home/bill/Projects/DigiSanc/DigiSanc_RAP/.idea/encodings.xml" timestamp="1446618766000" />
+    <file path="/home/bill/Projects/DigiSanc/DigiSanc_RAP/.idea/inspectionProfiles/Project_Default.xml" timestamp="1437020187000" />
+    <file path="/home/bill/Projects/DigiSanc/DigiSanc_RAP/.idea/inspectionProfiles/profiles_settings.xml" timestamp="1430803106000" />
+    <file path="/home/bill/Projects/DigiSanc/DigiSanc_RAP/.idea/misc.xml" timestamp="1450314841000" />
+    <file path="/home/bill/Projects/DigiSanc/DigiSanc_RAP/.idea/modules.xml" timestamp="1463201033000" />
+    <file path="/home/bill/Projects/DigiSanc/DigiSanc_RAP/.idea/scopes/scope_settings.xml" timestamp="1430287033000" />
+    <file path="/home/bill/Projects/DigiSanc/DigiSanc_RAP/.idea/vcs.xml" timestamp="1430287033000" />
+    <file path="/home/bill/Projects/DigiSanc/DigiSanc_RAP/.idea/workspace.xml" timestamp="1463201032000" />
+  </project-files>
+</conversion>
+

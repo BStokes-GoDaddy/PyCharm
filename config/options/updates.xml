@@ -1,0 +1,20 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <knownUpdateChannels>
+      <item value="pycharm10" />
+      <item value="pycharm2" />
+      <item value="pycharm3" />
+      <item value="pycharm4Beta" />
+      <item value="pycharm4" />
+      <item value="pycharm5EAP" />
+      <item value="pycharm5Beta" />
+      <item value="pycharm5" />
+    </knownUpdateChannels>
+    <ignoredBuildNumbers>
+      <item value="143.595" />
+    </ignoredBuildNumbers>
+    <option name="LAST_TIME_CHECKED" value="1454467317188" />
+    <option name="LAST_BUILD_CHECKED" value="PC-143.1559" />
+    <option name="UPDATE_CHANNEL_TYPE" value="milestone" />
+  </component>
+</application>

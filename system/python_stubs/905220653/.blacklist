@@ -1,0 +1,5 @@
+# PyCharm failed to generate skeletons for these modules.
+# These skeletons will be re-generated automatically
+# when a newer module version or an updated generator becomes available.
+/home/bill/Projects/DigiSanc/DigiSanc_RAP/env27/lib/python2.7/lib-dynload/dl.i386-linux-gnu.so = 1.138 1434999557000
+/home/bill/Projects/DigiSanc/DigiSanc_RAP/env27/lib/python2.7/lib-dynload/imageop.i386-linux-gnu.so = 1.138 1434999557000

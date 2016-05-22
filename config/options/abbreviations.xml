@@ -1,0 +1,8 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="EditorIncreaseFontSize" />
+      <action id="EditorDecreaseFontSize" />
+    </abbreviations>
+  </component>
+</application>

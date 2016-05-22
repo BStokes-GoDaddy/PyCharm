@@ -1,0 +1,165 @@
+07 Apr 2016 21:10:52 INFO  Runner.initLogger - --- Updater started ---
+07 Apr 2016 21:10:52 INFO  Runner.main - destFolder: /usr/lib/pycharm-community
+07 Apr 2016 21:10:53 INFO  Runner$1.execute - installing patch to the /usr/lib/pycharm-community
+07 Apr 2016 21:10:53 INFO  Utils.createTempFile - created temp file: /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0
+07 Apr 2016 21:10:53 INFO  Runner.doInstall - Extracting patch file...
+07 Apr 2016 21:10:53 INFO  Utils.getZipEntry - entryPath: patch-file.zip
+07 Apr 2016 21:10:53 INFO  Utils.getZipEntry - entryPath: .patch-info
+07 Apr 2016 21:10:53 INFO  Patch.validate - Validating installation...
+07 Apr 2016 21:11:40 INFO  Utils.createTempDir - deleted tmp dir: /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0/temp.tmp.1
+07 Apr 2016 21:11:40 INFO  Utils.createTempDir - created tmp dir: /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0/temp.tmp.1
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/af.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/ca.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/cs.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/da.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/de.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/eo.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/es.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/fi.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/fr.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/gl.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/he.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/it.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/ja.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/lt.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/nl.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/pl.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/pt_br.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/ru.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/sk.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/sv.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/zh_cn.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/zh_tw.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/parsers/rst/languages/da.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/parsers/rst/languages/lt.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/code_analyzer.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/error_reporting.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/math/latex2mathml.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/math/math2html.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/math/tex2unichar.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/math/unichar2tex.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/punctuation_chars.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/roman.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/smartquotes.py
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/writers/html4css1/math.css
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/writers/latex2e/xelatex.tex
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/jackson-annotations-2.5.1.jar
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/jackson-core-2.5.1.jar
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/jackson-databind-2.5.1.jar
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/jgit.jar
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/resources_en.jar
+07 Apr 2016 21:11:40 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/settings-repository.jar
+07 Apr 2016 21:11:40 INFO  Runner.cleanup - Cleaning up...
+07 Apr 2016 21:11:40 INFO  Utils.delete - deleted file /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0/temp.tmp.1
+07 Apr 2016 21:11:40 INFO  Utils.delete - deleted file /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0/temp.tmp.0
+07 Apr 2016 21:11:40 INFO  Utils.cleanup - deleted file /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0
+07 Apr 2016 21:25:55 INFO  Runner.initLogger - --- Updater started ---
+07 Apr 2016 21:25:55 INFO  Runner.main - destFolder: /usr/lib/pycharm-community
+07 Apr 2016 21:25:55 INFO  Runner$1.execute - installing patch to the /usr/lib/pycharm-community
+07 Apr 2016 21:25:55 INFO  Utils.createTempFile - created temp file: /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0
+07 Apr 2016 21:25:55 INFO  Runner.doInstall - Extracting patch file...
+07 Apr 2016 21:25:55 INFO  Utils.getZipEntry - entryPath: patch-file.zip
+07 Apr 2016 21:25:55 INFO  Utils.getZipEntry - entryPath: .patch-info
+07 Apr 2016 21:25:55 INFO  Patch.validate - Validating installation...
+07 Apr 2016 21:25:58 INFO  Utils.createTempDir - deleted tmp dir: /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0/temp.tmp.1
+07 Apr 2016 21:25:58 INFO  Utils.createTempDir - created tmp dir: /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0/temp.tmp.1
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/af.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/ca.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/cs.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/da.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/de.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/eo.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/es.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/fi.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/fr.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/gl.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/he.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/it.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/ja.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/lt.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/nl.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/pl.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/pt_br.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/ru.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/sk.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/sv.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/zh_cn.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/zh_tw.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/parsers/rst/languages/da.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/parsers/rst/languages/lt.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/code_analyzer.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/error_reporting.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/math/latex2mathml.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/math/math2html.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/math/tex2unichar.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/math/unichar2tex.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/punctuation_chars.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/roman.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/smartquotes.py
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/writers/html4css1/math.css
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/writers/latex2e/xelatex.tex
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/jackson-annotations-2.5.1.jar
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/jackson-core-2.5.1.jar
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/jackson-databind-2.5.1.jar
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/jgit.jar
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/resources_en.jar
+07 Apr 2016 21:25:58 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/settings-repository.jar
+07 Apr 2016 21:25:58 INFO  Runner.cleanup - Cleaning up...
+07 Apr 2016 21:25:58 INFO  Utils.delete - deleted file /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0/temp.tmp.1
+07 Apr 2016 21:25:58 INFO  Utils.delete - deleted file /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0/temp.tmp.0
+07 Apr 2016 21:25:58 INFO  Utils.cleanup - deleted file /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0
+07 Apr 2016 21:26:15 INFO  Runner.initLogger - --- Updater started ---
+07 Apr 2016 21:26:15 INFO  Runner.main - destFolder: /usr/lib/pycharm-community
+07 Apr 2016 21:26:15 INFO  Runner$1.execute - installing patch to the /usr/lib/pycharm-community
+07 Apr 2016 21:26:15 INFO  Utils.createTempFile - created temp file: /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0
+07 Apr 2016 21:26:15 INFO  Runner.doInstall - Extracting patch file...
+07 Apr 2016 21:26:15 INFO  Utils.getZipEntry - entryPath: patch-file.zip
+07 Apr 2016 21:26:15 INFO  Utils.getZipEntry - entryPath: .patch-info
+07 Apr 2016 21:26:15 INFO  Patch.validate - Validating installation...
+07 Apr 2016 21:26:44 INFO  Utils.createTempDir - deleted tmp dir: /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0/temp.tmp.1
+07 Apr 2016 21:26:44 INFO  Utils.createTempDir - created tmp dir: /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0/temp.tmp.1
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/af.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/ca.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/cs.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/da.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/de.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/eo.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/es.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/fi.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/fr.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/gl.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/he.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/it.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/ja.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/lt.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/nl.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/pl.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/pt_br.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/ru.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/sk.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/sv.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/zh_cn.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/languages/zh_tw.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/parsers/rst/languages/da.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/parsers/rst/languages/lt.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/code_analyzer.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/error_reporting.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/math/latex2mathml.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/math/math2html.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/math/tex2unichar.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/math/unichar2tex.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/punctuation_chars.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/roman.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/utils/smartquotes.py
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/writers/html4css1/math.css
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: helpers/py2only/docutils/writers/latex2e/xelatex.tex
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/jackson-annotations-2.5.1.jar
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/jackson-core-2.5.1.jar
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/jackson-databind-2.5.1.jar
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/jgit.jar
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/resources_en.jar
+07 Apr 2016 21:26:44 INFO  Utils.getZipEntry - entryPath: plugins/settings-repository/lib/settings-repository.jar
+07 Apr 2016 21:26:44 INFO  Runner.cleanup - Cleaning up...
+07 Apr 2016 21:26:44 INFO  Utils.delete - deleted file /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0/temp.tmp.1
+07 Apr 2016 21:26:44 INFO  Utils.delete - deleted file /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0/temp.tmp.0
+07 Apr 2016 21:26:44 INFO  Utils.cleanup - deleted file /home/bill/.PyCharm2016.1/system/log/idea.updater.files.tmp.0

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><console-history version="1" id="/home/bill/Projects/playground/MQTT/python-paho-mqtt-for-aws-iot">
+  <history-entry><![CDATA[ssl.OPENSSL_VERSION]]></history-entry>
+  <history-entry><![CDATA[ssl.__VERSION__]]></history-entry>
+  <history-entry><![CDATA[import ssl]]></history-entry>
+  <history-entry><![CDATA[import pyopenssl]]></history-entry>
+  <history-entry><![CDATA[ssl.PROTOCOL_TLSv1_2]]></history-entry>
+</console-history>

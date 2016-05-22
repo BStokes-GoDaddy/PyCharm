@@ -1,0 +1,20 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Favorite 'DigiSanc_RAP'" />
+    <option name="defaultScopeName" value="Favorite 'DigiSanc_RAP'" />
+    <option name="SEARCH_SCOPE" value="Favorite 'DigiSanc_RAP'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>wheezy*.py</mask>
+      <mask>*.py</mask>
+    </recentFileMasks>
+  </component>
+</application>

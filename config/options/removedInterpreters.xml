@@ -1,0 +1,9 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="$USER_HOME$/Projects/DigiSanc_BS_Develop/env27/bin/python" />
+      </set>
+    </option>
+  </component>
+</application>

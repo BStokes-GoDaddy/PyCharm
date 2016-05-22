@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/bill/Projects/playground/MQTT/python-paho-mqtt-for-aws-iot/.idea/encodings.xml" timestamp="1460012309000" />
+    <file path="/home/bill/Projects/playground/MQTT/python-paho-mqtt-for-aws-iot/.idea/misc.xml" timestamp="1460013013000" />
+    <file path="/home/bill/Projects/playground/MQTT/python-paho-mqtt-for-aws-iot/.idea/modules.xml" timestamp="1462764114000" />
+    <file path="/home/bill/Projects/playground/MQTT/python-paho-mqtt-for-aws-iot/.idea/python-paho-mqtt-for-aws-iot.iml" timestamp="1460013012000" />
+    <file path="/home/bill/Projects/playground/MQTT/python-paho-mqtt-for-aws-iot/.idea/vcs.xml" timestamp="1460012318000" />
+    <file path="/home/bill/Projects/playground/MQTT/python-paho-mqtt-for-aws-iot/.idea/workspace.xml" timestamp="1462766966000" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,76 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>send_message</find>
+      <find>threshold</find>
+      <find>tzone</find>
+      <find>remove_alarm</find>
+      <find>create_account_user</find>
+      <find>update_zone</find>
+      <find>_create_account_location</find>
+      <find>create_location</find>
+      <find>get_alarms</find>
+      <find>update_monitor</find>
+      <find>get_sensortypes</find>
+      <find>email or password is incorrect</find>
+      <find>get_user</find>
+      <find>limit</find>
+      <find>get_samples</find>
+      <find>EmailNotificationService</find>
+      <find>digisanc</find>
+      <find>create_alarm</find>
+      <find>PYPI</find>
+      <find>PYTHON</find>
+      <find>www-data</find>
+      <find>stats</find>
+      <find>stats = 1818</find>
+      <find>1818</find>
+      <find>cer</find>
+      <find>get_inventory</find>
+      <find>content</find>
+      <find>apiRequestTemplate</find>
+      <find>connflag</find>
+      <find>eb_</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>_inventory</replace>
+      <replace>skus</replace>
+      <replace>sku</replace>
+      <replace>sku</replace>
+      <replace>sku[</replace>
+      <replace>sensortypes</replace>
+      <replace>SensorTypesD</replace>
+      <replace>sensortype</replace>
+      <replace>SKUsDAL</replace>
+      <replace>SensorType()</replace>
+      <replace>skuDal</replace>
+      <replace>_registration</replace>
+      <replace>monitorId</replace>
+      <replace>inventoryId</replace>
+      <replace>:</replace>
+      <replace>405</replace>
+      <replace>try:</replace>
+      <replace>):</replace>
+      <replace>UUID4</replace>
+      <replace>uuid4</replace>
+      <replace>_alerthis(</replace>
+      <replace>alertMsg</replace>
+      <replace>trigger[</replace>
+      <replace>alertMsg.monitorName</replace>
+      <replace>PromoCodes</replace>
+      <replace>pcItem</replace>
+      <replace>AccountProcessService</replace>
+      <replace>EC2Service</replace>
+      <replace>= u(&quot;&quot;)</replace>
+      <replace>ZonesDAL</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/Projects/DigiSanc/DigiSanc_RAP/src/datalayer/tests</dir>
+      <dir>$USER_HOME$/Projects/DigiSanc/DigiSanc_RAP</dir>
+      <dir>$USER_HOME$/Projects/DigiSanc/DigiSanc_RAP/src/handlers</dir>
+      <dir>$USER_HOME$/Projects/DigiSanc/DigiSanc_RAP/src/handlers/_tests</dir>
+      <dir>$USER_HOME$/Projects/DigiSanc/DigiSanc_RAP/src/datalayer</dir>
+      <dir>$USER_HOME$/Projects/DigiSanc/DigiSanc_RAP/src/</dir>
+    </dirStrings>
+  </component>
+</application>

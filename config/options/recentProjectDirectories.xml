@@ -1,0 +1,59 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/DigiSanc/DigiSanc_RAP" />
+        <option value="$USER_HOME$/Projects/playground/MQTT/python-paho-mqtt-for-aws-iot" />
+        <option value="$USER_HOME$/Projects/DigiSanc/DigiSanc_Iot" />
+        <option value="$USER_HOME$/Projects/DigiSanc/DigiSanc_Tools/sensordata_test" />
+        <option value="$USER_HOME$/Projects/DigiSanc/git_merge/DigiSanc_RAP" />
+        <option value="$USER_HOME$/Projects/DigiSanc/DigiSanc_Tools" />
+        <option value="$USER_HOME$/Projects/DigiSanc/DigiSanc_WEB" />
+        <option value="$USER_HOME$/Projects/DigitizedSanctuary_bkp" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/DigiSanc/DigiSanc_RAP" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Projects/DigiSanc/DigiSanc_RAP" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Projects/DigiSanc/DigiSanc_Iot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-145.844" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1461557983616" />
+              <option name="buildTimestamp" value="1460098800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/DigiSanc/DigiSanc_RAP">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-145.971" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1463888142632" />
+              <option name="buildTimestamp" value="1462258800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/playground/MQTT/python-paho-mqtt-for-aws-iot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-145.844" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1463023690804" />
+              <option name="buildTimestamp" value="1460098800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
